@@ -13,7 +13,7 @@ function chpwd()
 function sendEmail(x,y,z) {
 	Email.send({
 	Host: "smtp.gmail.com",
-	Username : "recoin.portal@gmail.com",
+	Username : "senthilkumar.kumaraswamy.rec@gmail.com",
 	Password : "vforvendetta",
 	To : 'ashwin.balaji.dav@gmail.com',
 	From : "recoin.portal@gmail.com",
